@@ -4,12 +4,11 @@
   "license": "MIT",
   "author": "Visualization Team <visualization@uber.com>",
   "description": "Data visualization library based on React and d3.",
-  "main": "dist",
+  "main": "src",
   "module": "es",
   "jsnext:main": "es",
   "files": [
-    "dist",
-    "es"
+    "src"
   ],
   "repository": {
     "type": "git",
